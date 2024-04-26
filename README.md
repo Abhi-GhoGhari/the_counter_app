@@ -1,16 +1,2 @@
-# the_counter_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+><img src = "https://github.com/Abhi-GhoGhari/the_counter_app/assets/143987211/62db7278-0142-47c4-bcee-fa7bdaef0582" width = "250">
+><img src = "https://github.com/Abhi-GhoGhari/the_counter_app/assets/143987211/f22817fd-e322-4d68-9e89-d53e7ede2d50" width = "250">
